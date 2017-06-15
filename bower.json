@@ -1,0 +1,19 @@
+{
+  "name": "learning_css",
+  "homepage": "https://github.com/sulekhamahato/learning_css",
+  "authors": [
+    "sulekhamahato <sulekha.mahato@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./lib/vendor",
+    "test",
+    "tests"
+  ]
+}
